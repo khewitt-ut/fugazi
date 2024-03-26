@@ -1,7 +1,5 @@
-package main
+package fugazi
 
-import "fmt"
-
-func main() {
-	fmt.Println("Returning the screw")
+func ReturningTheScrew() string {
+	return "Returning the screw"
 }
